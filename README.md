@@ -1,24 +1,12 @@
-# &#x20;  # Mi Proyecto
+   # Mi Proyecto
 
-# 
+   ## Descripción
+   Práctica de Markdown del taller de GitHub del SENA.
 
-# &#x20;  ## Descripción
+   ## Lenguajes y herramientas
+   - Python
+   - Java
+   - GitHub
 
-# &#x20;  Práctica de Markdown del taller de GitHub del SENA.
-
-# 
-
-# &#x20;  ## Lenguajes y herramientas
-
-# &#x20;  - Python
-
-# &#x20;  - Java
-
-# &#x20;  - GitHub
-
-# 
-
-# &#x20;  ## Enlace
-
-# &#x20;  https://github.com
-
+   ## Enlace
+   https://github.com
