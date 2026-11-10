@@ -1,12 +1,16 @@
-   # Mi Proyecto
+   # Portafolio del Aprendiz
 
-   ## Descripción
-   Práctica de Markdown del taller de GitHub del SENA.
+   Proyecto académico desarrollado para aprender GitHub en el SENA.
 
-   ## Lenguajes y herramientas
+   ## Tecnologías
    - Python
-   - Java
+   - Git
    - GitHub
 
-   ## Enlace
-   https://github.com
+   ## Estructura
+   - ejercicios/
+   - proyectos/
+   - evidencias/
+
+   ## Autor
+   [Mathew Lara Avendaño]
